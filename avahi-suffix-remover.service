@@ -1,5 +1,5 @@
 [Unit]
-Description="Watch for avahi name collisions and try to remove the -2 suffix"
+Description="Watch for avahi name collisions and try to remove the -n suffix"
 After=network.target
 
 [Service]
